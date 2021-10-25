@@ -1,0 +1,85 @@
+/* commons */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+.navroski {
+    background-color: #2c3e50;
+    height: 80px;
+}
+
+.jumbotron {
+    height: 450px;
+    background-color:#1abc9c ;
+}
+
+.portbello {
+    height: 130px;
+    background-color: darkorange;
+}
+
+
+.bloccheto img {
+    width: 100%;
+    border-radius: 10px;
+    
+}
+/* 
+.debug .container-sm {
+    background-color: blueviolet;
+    height: 150px;
+}
+
+.debug .container-md {
+    background-color: chartreuse;
+    height: 150px;
+}
+
+.debug .container-lg {
+    background-color: crimson;
+    height: 150px;
+}
+
+.debug .container-xl {
+    background-color: cyan;
+    height: 150px;
+} */
+
+/* .bloccheto { */
+    /* height: 350px; */
+    /* border-radius: 10px; */
+
+
+/* .debug .home {
+    background-color:#ba4b63;
+} */
+
+/*.debug .cake {
+    background-color: #140f0f;
+}
+
+.debug .circus {
+    background-color: #1ea4b6;
+}
+
+.debug.joy {
+    background-color: #1c83c1;
+}
+
+.debug .safe {
+    background-color: #0e38b5;
+}
+
+ .debugbeatle {
+    background-color: #ccb2a3;
+} */
