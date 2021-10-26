@@ -19,6 +19,7 @@ img {
     height: 4px;
     width: 80px;
 }
+
 footer {
    
     background-color:#3a546d ;
@@ -30,6 +31,6 @@ footer {
 }
 
 .cico:after {
-content:"\00A9";
+content:" \00A9";
 
 }
