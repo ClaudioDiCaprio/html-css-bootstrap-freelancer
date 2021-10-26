@@ -11,9 +11,9 @@
     background-color:#1abc9c ;
 }
 
-.portbello {
+/* .portbello {
     height: 130px;
-}
+} */
 
 
 img {
@@ -25,7 +25,10 @@ img {
     background-color:#1abc9c ;
 }
 
-
+.widoto {
+    height: 4px;
+    width: 80px;
+}
 footer {
     height: 200px;
     background-color:#3a546d ;
@@ -41,9 +44,7 @@ footer {
     background-color: cyan;
 }
 
-.debug .portbello{
-    border: 1px solid green; 
-}
+
 
 .about {
     height:550px;
